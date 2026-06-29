@@ -1,0 +1,867 @@
+canonical_identifier: bkk:krp/KR3eo001/v1
+canonical_location: https://kanripo.org/bkk/KR3eo001/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 養老奉親書
+  identifiers:
+    krp: KR3eo001
+  tags:
+    kr-categories: KR3eo
+    tls-dates: dat04350
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eo001.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3eo001_000.yaml, hash: 'sha256:89018597a67c7dbe90305eb8eab3086027b28fb04b455c2f125f521f3fb5dcd4'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eo001_000.markers.yaml, hash: 'sha256:9b8658760f245f8d8c5fc868b41d5b63917d416839563742b3cf1c631e9d67ac'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eo001_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 406
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo001_jc_000-d3.h1s1
+    span:
+    - body
+    - 0
+    - 12060
+  label: 上籍
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo001_jc_000-d3d2
+    span:
+    - body
+    - 2
+    - 1266
+  label: 食治養老益氣方第一
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo001_jc_000-d3.d2d2
+    span:
+    - body
+    - 11
+    - 594
+  label: 一
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eo001_jc_000-d3.d2d3
+    span:
+    - body
+    - 594
+    - 865
+  label: 二
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eo001_jc_000-d3.d2d4
+    span:
+    - body
+    - 865
+    - 1266
+  label: 增補方劑
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eo001_jc_000-d3d3
+    span:
+    - body
+    - 1266
+    - 1893
+  label: 食治老人眼目方第二
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo001_jc_000-d3.d3d2
+    span:
+    - body
+    - 1275
+    - 1651
+  label: 一
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eo001_jc_000-d3.d3d3
+    span:
+    - body
+    - 1651
+    - 1787
+  label: 二
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eo001_jc_000-d3.d3d4
+    span:
+    - body
+    - 1787
+    - 1893
+  label: 增補方劑
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eo001_jc_000-d3d4
+    span:
+    - body
+    - 1893
+    - 2267
+  label: 食治老人耳聾耳鳴諸方第三
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo001_jc_000-d3.d4d2
+    span:
+    - body
+    - 1905
+    - 2178
+  label: 一
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eo001_jc_000-d3.d4d3
+    span:
+    - body
+    - 2178
+    - 2225
+  label: 二
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eo001_jc_000-d3.d4d4
+    span:
+    - body
+    - 2225
+    - 2267
+  label: 補充方劑
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eo001_jc_000-d3d5
+    span:
+    - body
+    - 2267
+    - 2874
+  label: 食治老人五勞七傷諸方第四
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo001_jc_000-d3.d5d2
+    span:
+    - body
+    - 2279
+    - 2657
+  label: 一
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eo001_jc_000-d3.d5d3
+    span:
+    - body
+    - 2657
+    - 2724
+  label: 二
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eo001_jc_000-d3.d5d4
+    span:
+    - body
+    - 2724
+    - 2874
+  label: 增補方劑
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eo001_jc_000-d3d6
+    span:
+    - body
+    - 2874
+    - 3424
+  label: 食治老人虛損羸瘦諸方第五
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo001_jc_000-d3.d6d32
+    span:
+    - body
+    - 3345
+    - 3424
+  label: 增補方劑
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eo001_jc_000-d3d7
+    span:
+    - body
+    - 3424
+    - 4341
+  label: 食治老人脾胃氣弱方第六
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo001_jc_000-d3.d7d2
+    span:
+    - body
+    - 3435
+    - 3993
+  label: 一
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eo001_jc_000-d3.d7d3
+    span:
+    - body
+    - 3993
+    - 4220
+  label: 二
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eo001_jc_000-d3.d7d4
+    span:
+    - body
+    - 4220
+    - 4341
+  label: 增補方劑
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eo001_jc_000-d3d8
+    span:
+    - body
+    - 4341
+    - 5179
+  label: 食治老人瀉痢諸方第七
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo001_jc_000-d3.d8d2
+    span:
+    - body
+    - 4351
+    - 4758
+  label: 一
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eo001_jc_000-d3.d8d3
+    span:
+    - body
+    - 4758
+    - 5024
+  label: 二
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eo001_jc_000-d3.d8d4
+    span:
+    - body
+    - 5024
+    - 5179
+  label: 增補方劑
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eo001_jc_000-d3d9
+    span:
+    - body
+    - 5179
+    - 5925
+  label: 食治老人煩渴熱諸方第八
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo001_jc_000-d3.d9d2
+    span:
+    - body
+    - 5190
+    - 5617
+  label: 一
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eo001_jc_000-d3.d9d3
+    span:
+    - body
+    - 5617
+    - 5829
+  label: 二
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eo001_jc_000-d3.d9d4
+    span:
+    - body
+    - 5829
+    - 5925
+  label: 增補方劑
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eo001_jc_000-d3d10
+    span:
+    - body
+    - 5925
+    - 6532
+  label: 食治老人水氣諸方第九
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo001_jc_000-d3.d10d2
+    span:
+    - body
+    - 5935
+    - 6352
+  label: 一
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eo001_jc_000-d3.d10d3
+    span:
+    - body
+    - 6352
+    - 6532
+  label: 二
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eo001_jc_000-d3d11
+    span:
+    - body
+    - 6532
+    - 7638
+  label: 食治老人喘嗽諸方第十
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo001_jc_000-d3.d11d2
+    span:
+    - body
+    - 6542
+    - 6804
+  label: 一
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eo001_jc_000-d3.d11d3
+    span:
+    - body
+    - 6804
+    - 7222
+  label: 二
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eo001_jc_000-d3.d11d4
+    span:
+    - body
+    - 7222
+    - 7638
+  label: 增補方劑
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eo001_jc_000-d3d12
+    span:
+    - body
+    - 7638
+    - 8374
+  label: 食治老人腳氣諸方第十一
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo001_jc_000-d3.d12d2
+    span:
+    - body
+    - 7649
+    - 7985
+  label: 一
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eo001_jc_000-d3.d12d3
+    span:
+    - body
+    - 7985
+    - 8310
+  label: 二
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eo001_jc_000-d3.d12d4
+    span:
+    - body
+    - 8310
+    - 8374
+  label: 增補方劑
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eo001_jc_000-d3d13
+    span:
+    - body
+    - 8374
+    - 9051
+  label: 食治老人諸淋方第十二
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo001_jc_000-d3.d13d2
+    span:
+    - body
+    - 8384
+    - 8653
+  label: 一
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eo001_jc_000-d3.d13d3
+    span:
+    - body
+    - 8653
+    - 8940
+  label: 二
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eo001_jc_000-d3.d13d4
+    span:
+    - body
+    - 8940
+    - 9051
+  label: 增補方劑
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eo001_jc_000-d3d14
+    span:
+    - body
+    - 9051
+    - 9680
+  label: 食治老人噎塞諸方第十三
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo001_jc_000-d3.d14d2
+    span:
+    - body
+    - 9062
+    - 9256
+  label: 一
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eo001_jc_000-d3.d14d3
+    span:
+    - body
+    - 9256
+    - 9607
+  label: 二
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eo001_jc_000-d3.d14d4
+    span:
+    - body
+    - 9607
+    - 9680
+  label: 增補方劑
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eo001_jc_000-d3d15
+    span:
+    - body
+    - 9680
+    - 10340
+  label: 食治老人冷氣諸方第十四
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo001_jc_000-d3.d15d2
+    span:
+    - body
+    - 9691
+    - 9880
+  label: 一
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eo001_jc_000-d3.d15d3
+    span:
+    - body
+    - 9880
+    - 10224
+  label: 二
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eo001_jc_000-d3.d15d4
+    span:
+    - body
+    - 10224
+    - 10340
+  label: 增補方劑
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eo001_jc_000-d3d16
+    span:
+    - body
+    - 10340
+    - 10985
+  label: 食治老人諸痔方第十五
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo001_jc_000-d3.d16d2
+    span:
+    - body
+    - 10350
+    - 10505
+  label: 一
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eo001_jc_000-d3.d16d3
+    span:
+    - body
+    - 10505
+    - 10896
+  label: 二
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eo001_jc_000-d3.d16d4
+    span:
+    - body
+    - 10896
+    - 10985
+  label: 增補方劑
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eo001_jc_000-d3d17
+    span:
+    - body
+    - 10985
+    - 12060
+  label: 食治老人諸風方第十六
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo001_jc_000-d3.d17d2
+    span:
+    - body
+    - 10995
+    - 11554
+  label: 一
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eo001_jc_000-d3.d17d3
+    span:
+    - body
+    - 11554
+    - 12060
+  label: 二
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eo001_jc_000-d4.h1s1
+    span:
+    - body
+    - 12060
+    - 22982
+  label: 下籍
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo001_jc_000-d4d2
+    span:
+    - body
+    - 12062
+    - 12557
+  label: 飲食調治第一
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo001_jc_000-d4d3
+    span:
+    - body
+    - 12557
+    - 12941
+  label: 形證脈候第二
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo001_jc_000-d4d4
+    span:
+    - body
+    - 12941
+    - 13246
+  label: 醫藥扶持第三
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo001_jc_000-d4d5
+    span:
+    - body
+    - 13246
+    - 13530
+  label: 性氣好嗜第四
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo001_jc_000-d4d6
+    span:
+    - body
+    - 13530
+    - 13856
+  label: 宴處起居第五
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo001_jc_000-d4d7
+    span:
+    - body
+    - 13856
+    - 14221
+  label: 貧富禍福第六
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo001_jc_000-d4d8
+    span:
+    - body
+    - 14221
+    - 14547
+  label: 戒忌保護第七
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo001_jc_000-d4d9
+    span:
+    - body
+    - 14547
+    - 14790
+  label: 四時養老通用備疾藥法第八
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo001_jc_000-d4d10
+    span:
+    - body
+    - 14790
+    - 17228
+  label: 四時通用男女婦人方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo001_jc_000-d4d11
+    span:
+    - body
+    - 17228
+    - 17629
+  label: 春時攝養第九
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo001_jc_000-d4d12
+    span:
+    - body
+    - 17629
+    - 18251
+  label: 春時用藥諸方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo001_jc_000-d4d13
+    span:
+    - body
+    - 18251
+    - 18675
+  label: 夏時攝養第十
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo001_jc_000-d4d14
+    span:
+    - body
+    - 18675
+    - 19845
+  label: 夏時用藥諸方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo001_jc_000-d4d15
+    span:
+    - body
+    - 19845
+    - 20083
+  label: 秋時攝養第十一
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo001_jc_000-d4d16
+    span:
+    - body
+    - 20083
+    - 20804
+  label: 秋時用藥諸方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo001_jc_000-d4d17
+    span:
+    - body
+    - 20804
+    - 21135
+  label: 冬時攝養第十二
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo001_jc_000-d4d18
+    span:
+    - body
+    - 21135
+    - 21398
+  label: 冬時用藥諸方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo001_jc_000-d4d19
+    span:
+    - body
+    - 21398
+    - 22748
+  label: 簡妙老人備急方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo001_jc_000-d4d20
+    span:
+    - body
+    - 22748
+    - 22982
+  label: 養老奉親書續添
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo001_jc_000-d5.h1s1
+    span:
+    - body
+    - 22982
+    - 23349
+  label: 附篇
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo001_jc_000-d5d2
+    span:
+    - body
+    - 22984
+    - 23349
+  label: 貧富禍福第六
+  type: section
+  level: 2
+hash: sha256:f380cb7a58a5656f675ff3c362ebb41ef05172d069e30023f31f3a30af3f195c
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
