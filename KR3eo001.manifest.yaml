@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3eo001_000.yaml, hash: 'sha256:89018597a67c7dbe90305eb8eab3086027b28fb04b455c2f125f521f3fb5dcd4'}
+  - {seq: 0, filename: KR3eo001_000.yaml, hash: 'sha256:ee64fa7470a6cf81ba1357824e26def95e25a56a781e9e8305f3aad1138668ee'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eo001_000.markers.yaml, hash: 'sha256:9b8658760f245f8d8c5fc868b41d5b63917d416839563742b3cf1c631e9d67ac'}
+  - {seq: 0, role: markers, filename: assets/KR3eo001_000.markers.yaml, hash: 'sha256:85875352ec0a080a1b3d02737dd5f9be8c77d8eb1d21cf675c3238489d32ee9d'}
 table_of_contents:
 - ref:
     seq: 0
@@ -861,7 +861,4 @@ table_of_contents:
   label: 貧富禍福第六
   type: section
   level: 2
-hash: sha256:f380cb7a58a5656f675ff3c362ebb41ef05172d069e30023f31f3a30af3f195c
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:853be838a3d10c37ea7510e205b5b1cfd9968979046f368f7e2557ec71d16903
