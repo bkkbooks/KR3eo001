@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3eo001_000-jc.yaml, hash: 'sha256:ee64fa7470a6cf81ba1357824e26def95e25a56a781e9e8305f3aad1138668ee'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eo001_000-jc.markers.yaml, hash: 'sha256:06866aa74f789ec871986e582e96b0929f888430ea52c8705c74353858ff8928'}
+  - {seq: 0, role: markers, filename: assets/KR3eo001_000-jc.markers.yaml, hash: 'sha256:51c86bd6c07609104a6daa864302c7cf38ef28a5abfb0b3cd6bcd996b623afe3'}
 table_of_contents:
 - ref:
     seq: 0
@@ -861,4 +861,4 @@ table_of_contents:
   label: 貧富禍福第六
   type: section
   level: 2
-hash: sha256:d529d97337b95c0d007da0f8538533ff5ece29415a9254963bb2e10f94dd97d3
+hash: sha256:f7aced729784190cc2e53ba388ea5681ec71f5a802e4f04a50f2b5914396fc33
